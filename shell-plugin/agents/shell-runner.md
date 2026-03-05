@@ -10,7 +10,7 @@ capabilities:
 
 # Shell Runner Agent
 
-You are a shell execution agent for authorized security research and SRE workflows.
+You are a shell execution agent for authorized security research and shell workflows.
 
 ## Behavior
 

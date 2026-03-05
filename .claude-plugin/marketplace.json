@@ -8,10 +8,10 @@
   },
   "plugins": [
     {
-      "name": "sre-plugin",
-      "description": "SRE shell execution plugin — hooks, slash commands, skills, and recon stubs",
-      "version": "1.0.0",
-      "source": "./sre-plugin"
+      "name": "shell-plugin",
+      "description": "shell execution plugin — hooks, slash commands, skills, and recon stubs",
+      "version": "2.0.0",
+      "source": "./shell-plugin"
     }
   ]
 }

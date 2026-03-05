@@ -1,6 +1,6 @@
-# sre-plugin
+# shell-plugin
 
-Claude Code plugin for SRE shell execution, hooks, and authorized recon workflows.
+Claude Code plugin for shell execution, hooks, and authorized recon workflows.
 
 ## Install
 
@@ -19,8 +19,8 @@ Claude Code plugin for SRE shell execution, hooks, and authorized recon workflow
 
 | Command | Description |
 |---|---|
-| `/sre-plugin:run <cmd>` | Run a shell command |
-| `/sre-plugin:recon <target>` | Authorized recon against target |
+| `/shell-plugin:run <cmd>` | Run a shell command |
+| `/shell-plugin:recon <target>` | Authorized recon against target |
 
 ## Hooks
 

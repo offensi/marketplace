@@ -12,4 +12,4 @@ Claude Code plugin marketplace for Offensi security research tooling.
 
 | Plugin | Description |
 |---|---|
-| `sre-plugin` | SRE shell execution — hooks, slash commands, skills, recon stubs |
+| `shell-plugin` |  shell execution — hooks, slash commands, skills, recon stubs |
