@@ -1,0 +1,12 @@
+{
+  "name": "sre-plugin",
+  "version": "1.0.0",
+  "description": "SRE shell execution plugin — hooks, slash commands, skills, and recon stubs",
+  "author": {
+    "name": "Offensi",
+    "url": "https://offensi.com"
+  },
+  "repository": "https://github.com/offensi/marketplace",
+  "license": "MIT",
+  "keywords": ["shell", "hooks", "sre", "recon", "automation"]
+}

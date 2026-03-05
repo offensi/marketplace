@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "offensi-marketplace",
+  "description": "Offensi security research Claude Code plugins",
+  "owner": {
+    "name": "Offensi",
+    "url": "https://offensi.com"
+  },
+  "plugins": [
+    {
+      "name": "sre-plugin",
+      "description": "SRE shell execution plugin — hooks, slash commands, skills, and recon stubs",
+      "version": "1.0.0",
+      "source": "./sre-plugin"
+    }
+  ]
+}
